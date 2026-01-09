@@ -698,7 +698,7 @@ post:
   # 文章图片标题
   # Image caption
   image_caption:
-    enable: true
+    enable: false
 
   # 文章图片可点击放大
   # Zoom feature of images
